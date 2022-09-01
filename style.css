@@ -12,8 +12,8 @@ body{
     overflow: hidden;
     background:linear-gradient(
         to left top, 
-        rgb(135, 89, 89),
-        rgb(62, 44, 95)
+        rgb(5, 16, 217),
+        rgb(100, 47, 100)
     );
     font-family: "Poppins" , sans-serif;
 }
